@@ -1,4 +1,4 @@
-# Hello! I'm Lívia Adair Menato 👋
+# Hello! I'm Lívia Menato 👋
 
 I am a **Systems Analysis and Development** student at **UNIFEOB**, with a growing passion for **back-end development**, especially with **Python**. 
 My journey started in a very different field: I hold a degree in **Psychology** from the University of Beira Interior in Portugal, where I lived for 6 years. 
