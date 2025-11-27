@@ -1,6 +1,6 @@
 # Hello! I'm Lívia Menato 👋
 
-I am a **Systems Analysis and Development** student at **UNIFEOB**, with a growing passion for **back-end development**, especially with **Python**. 
+I am a **Systems Analysis and Development** student at **Universidade Anhembi Morumbi** and work as **Devops Intern** at **Trackstreet**. 
 My journey started in a very different field: I hold a degree in **Psychology** from the University of Beira Interior in Portugal, where I lived for 6 years. 
 During that time, I worked with the university and participated in events like **Universidade de Verão**, along with other work experiences, such as being a waitress and working at a ski resort.
 
@@ -15,17 +15,9 @@ But it was in technology that I found a new path. After returning to Brazil, I s
 - **Front-end**: HTML, CSS, Bootstrap, Figma, WordPress
 - **Databases**: MySQL Workbench, SQL
 - **Data Analysis & BI**: Power BI, Pandas, NumPy, Jupyter Notebooks
-- **Cloud**: Currently learning AWS Cloud
+- **Cloud**: AWS Cloud
 - **Tools**: Git, GitHub, Visual Studio Code
 
----
-
-## 🌱 Currently learning:
-
-- **AWS Cloud** to dive deeper into cloud computing.
-- **OOP with Python** to improve my skills in object-oriented programming.
-- **Data Modeling** using tools like Power BI and MySQL Workbench.
-- **Business Intelligence (BI)** for data analysis and informed decision-making.
 
 ---
 
